@@ -1,0 +1,31 @@
+# Core
+numpy==1.26.4
+pandas==2.0.3
+scipy==1.11.4
+
+# Viz
+matplotlib==3.10.7
+seaborn==0.13.2
+Pillow==9.5.0
+
+# ML
+scikit-learn==1.4.2
+lightgbm==4.6.0
+
+# NLP
+nltk==3.9.2
+gensim==4.3.3
+
+# Utils
+tqdm==4.66.4
+ipython==8.28.0
+
+# Deep Learning
+torch==2.10.0
+torchvision==0.25.0
+
+# Transformers / Embeddings
+sentence-transformers==5.2.2
+transformers==4.49.0
+huggingface-hub==0.29.1
+tokenizers==0.21.0
